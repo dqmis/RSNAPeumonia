@@ -1,0 +1,8 @@
+darknet/
+data/
+stage_2_detailed_class_info.csv.zip
+stage_2_sample_submission.csv
+stage_2_test_images.zip
+stage_2_train_images.zip
+stage_2_train_labels.csv.zip
+venv/
